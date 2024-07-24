@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Hadi Ghazi</h1>
+<h1 align="left">Hi 👋, I'm Hadi Ghazi</h1>
 <h3 align="left">Junior Software Engineer</h3>
 
 <p align="left">
-  A passionate Full Stack Developer from Beirut, Lebanon specializing in backend development. I am 20 years old and a graduate of the Lebanese University with a degree in Computer Science. I also completed the intensive bootcamp at SE Factory, where I honed my skills in software development. As an AWS Certified Cloud Practitioner, I have a strong foundation in cloud computing. Throughout my journey, I've had the opportunity to work on numerous projects, both individually and as part of a team, allowing me to develop a versatile skill set. I am proficient in a variety of programming languages and frameworks, including but not limited to React, Express, Laravel, Flutter, and Golang. Additionally, I have experience working with databases such as MySQL and MongoDB.
+  A passionate Software Engineer from Beirut, Lebanon specializing in backend development. I am 20 years old and a graduate of the Lebanese University with a degree in Computer Science. I also completed the intensive bootcamp at SE Factory, where I honed my skills in software development. As an AWS Certified Cloud Practitioner, I have a strong foundation in cloud computing. Throughout my journey, I've had the opportunity to work on numerous projects, both individually and as part of a team, allowing me to develop a versatile skill set. I am proficient in a variety of programming languages and frameworks, including but not limited to React, Express, Laravel, Flutter, and Golang. Additionally, I have experience working with databases such as MySQL and MongoDB.
 </p>
 
 - 💬 Ask me about **React, Laravel, Express**
 
 - 📫 How to reach me **hadigghazi@gmail.com**
 
+- 🌍 I'm based in Beirut, Lebanon
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/hadigghazi" target="blank">
