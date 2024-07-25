@@ -1,4 +1,3 @@
-![Banner](https://drive.google.com/uc?export=download&id=1YwcZKiF8wtMVChQKNDvvOFiTXErz9I7h)
 <h1 align="left">Hi 👋, I'm Hadi Ghazi</h1>
 <h3 align="left">Junior Software Engineer</h3>
 
