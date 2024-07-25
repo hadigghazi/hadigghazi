@@ -1,3 +1,4 @@
+![Banner]([https://example.com/your-image.png](https://drive.google.com/file/d/1YwcZKiF8wtMVChQKNDvvOFiTXErz9I7h/view?usp=drive_link))
 <h1 align="left">Hi 👋, I'm Hadi Ghazi</h1>
 <h3 align="left">Junior Software Engineer</h3>
 
