@@ -88,4 +88,9 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadigghazi&show_icons=true&locale=en&layout=compact" alt="hadigghazi" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadigghazi&show_icons=true&locale=en" alt="hadigghazi" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadigghazi&show_icons=true&locale=en&layout=compact" alt="hadigghazi" />
+</p>
