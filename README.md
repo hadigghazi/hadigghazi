@@ -2,7 +2,7 @@
 <h3 align="left">Software Engineer</h3>
 
 <p align="left">
-  A passionate Software Engineer from Beirut, Lebanon specializing in both frontend and backend development. Graduating from the Lebanese University at 20 years old with a degree in Computer Science. As an AWS Certified Cloud Practitioner, I have a strong foundation in cloud computing, which adds to my skills in software development. Throughout my journey, I've had the opportunity to work on numerous projects, both individually and as part of a team, allowing me to develop a versatile skill set. I am proficient in a variety of programming languages and frameworks, including but not limited to React, Express, Laravel, Flutter, and Java. Additionally, I have experience working with databases such as MySQL and MongoDB.
+  I am a Software Engineer from Beirut, Lebanon, specializing in full-stack development and cloud technologies, working within the healthcare sector. A proud graduate of the Lebanese University with a degree in Computer Science, I hold an AWS Certified Cloud Practitioner certification. I am passionate about integrating machine learning and artificial intelligence into my work to innovate and enhance healthcare solutions. My focus is on leveraging technology to create impactful and transformative applications that improve lives.
 </p>
 
 - 💬 Ask me about **React, Laravel, Express**
